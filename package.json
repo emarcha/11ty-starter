@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1",
-    "@grimlink/eleventy-plugin-sass": "^1.0.3",
-    "sass": "^1.53.0"
+    "@11ty/eleventy": "3.1.2",
+    "@grimlink/eleventy-plugin-sass": "1.0.3",
+    "sass": "1.89.2"
   }
 }
